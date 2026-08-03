@@ -1,4 +1,4 @@
-Single Cell and Spatial Analytics
+# Single Cell and Spatial Analytics
 
 MSc Cancer Genomics and Data Science
 Queen Mary University of London, 2025–2026
