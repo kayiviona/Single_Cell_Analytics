@@ -114,23 +114,6 @@ size reduces statistical power.
 
 ---
 
-## Assignment Q3 — Short Answer Questions
-
-**Topics:**
-1. Pseudotime vs bulk RNA-seq: critical comparison for 
-   detecting transitional gene expression across lineages
-2. Cell-cell communication using NicheNet — ligand-receptor 
-   interaction inference integrating prior knowledge networks
-3. Spatial transcriptomics: sequencing-based (10x Genomics 
-   Visium) vs imaging-based (10x Genomics Xenium) including 
-   resolution, throughput and analytical trade-offs
-4. Statistical testing for spatial proximity using permutation 
-   testing and neighbourhood graph approaches (Kandinsky)
-5. Cell type annotation ambiguities — biological and technical 
-   explanations and resolution strategies
-
----
-
 ## Technologies Used
 
 - **Language:** Python
